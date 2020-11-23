@@ -14,3 +14,4 @@
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.java)|2 ms|
 |1136|[ Parallel Courses](https://leetcode.com/problems/parallel-courses/)|[Java](./solutions/1136.%20Parallel%20Courses.java)|7 ms|
 |1245|[ Tree Diameter](https://leetcode.com/problems/tree-diameter/)|[Java](./solutions/1245.%20Tree%20Diameter.java)|19 ms|
+|1586|[ Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/)|[Java](./solutions/1586.%20Binary%20Search%20Tree%20Iterator%20II.java)|64 ms|

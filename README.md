@@ -8,6 +8,7 @@
 |174|[ Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](./solutions/174.%20Dungeon%20Game.java)|1 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./solutions/207.%20Course%20Schedule.java)|7 ms|
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Java](./solutions/274.%20H-Index.java)|0 ms|
+|275|[ H-Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./solutions/275.%20H-Index%20II.java)|0 ms|
 |317|[ Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[Java](./solutions/317.%20Shortest%20Distance%20from%20All%20Buildings.java)|30 ms|
 |384|[ Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Java](./solutions/384.%20Shuffle%20an%20Array.java)|69 ms|
 |435|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Java](./solutions/435.%20Non-overlapping%20Intervals.java)|3 ms|

@@ -10,6 +10,7 @@
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Java](./solutions/274.%20H-Index.java)|0 ms|
 |275|[ H-Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./solutions/275.%20H-Index%20II.java)|0 ms|
 |317|[ Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[Java](./solutions/317.%20Shortest%20Distance%20from%20All%20Buildings.java)|30 ms|
+|374|[ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Java](./solutions/374.%20Guess%20Number%20Higher%20or%20Lower.java)|0 ms|
 |384|[ Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|[Java](./solutions/384.%20Shuffle%20an%20Array.java)|69 ms|
 |435|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Java](./solutions/435.%20Non-overlapping%20Intervals.java)|3 ms|
 |505|[ The Maze II](https://leetcode.com/problems/the-maze-ii/)|[Java](./solutions/505.%20The%20Maze%20II.java)|7 ms|

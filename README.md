@@ -16,6 +16,7 @@
 |435|[ Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Java](./solutions/435.%20Non-overlapping%20Intervals.java)|3 ms|
 |505|[ The Maze II](https://leetcode.com/problems/the-maze-ii/)|[Java](./solutions/505.%20The%20Maze%20II.java)|7 ms|
 |797|[ All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[Java](./solutions/797.%20All%20Paths%20From%20Source%20to%20Target.java)|2 ms|
+|889|[ Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](./solutions/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.java)|1 ms|
 |1136|[ Parallel Courses](https://leetcode.com/problems/parallel-courses/)|[Java](./solutions/1136.%20Parallel%20Courses.java)|7 ms|
 |1245|[ Tree Diameter](https://leetcode.com/problems/tree-diameter/)|[Java](./solutions/1245.%20Tree%20Diameter.java)|19 ms|
 |1586|[ Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/)|[Java](./solutions/1586.%20Binary%20Search%20Tree%20Iterator%20II.java)|64 ms|

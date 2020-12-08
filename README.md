@@ -22,4 +22,5 @@
 |889|[ Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](./solutions/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.java)|1 ms|
 |1136|[ Parallel Courses](https://leetcode.com/problems/parallel-courses/)|[Java](./solutions/1136.%20Parallel%20Courses.java)|7 ms|
 |1245|[ Tree Diameter](https://leetcode.com/problems/tree-diameter/)|[Java](./solutions/1245.%20Tree%20Diameter.java)|19 ms|
+|1570|[ Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|[Java](./solutions/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.java)|2 ms|
 |1586|[ Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/)|[Java](./solutions/1586.%20Binary%20Search%20Tree%20Iterator%20II.java)|64 ms|

@@ -10,6 +10,7 @@
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./solutions/207.%20Course%20Schedule.java)|7 ms|
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Java](./solutions/274.%20H-Index.java)|0 ms|
 |275|[ H-Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./solutions/275.%20H-Index%20II.java)|0 ms|
+|276|[ Paint Fence](https://leetcode.com/problems/paint-fence/)|[Java](./solutions/276.%20Paint%20Fence.java)|0 ms|
 |317|[ Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[Java](./solutions/317.%20Shortest%20Distance%20from%20All%20Buildings.java)|30 ms|
 |371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./solutions/371.%20Sum%20of%20Two%20Integers.java)|7 ms|
 |374|[ Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Java](./solutions/374.%20Guess%20Number%20Higher%20or%20Lower.java)|0 ms|

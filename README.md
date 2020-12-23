@@ -8,6 +8,7 @@
 |170|[ Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|[Java](./solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.java)|62 ms|
 |174|[ Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](./solutions/174.%20Dungeon%20Game.java)|1 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./solutions/207.%20Course%20Schedule.java)|7 ms|
+|245|[ Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|[Java](./solutions/245.%20Shortest%20Word%20Distance%20III.java)|1 ms|
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Java](./solutions/274.%20H-Index.java)|0 ms|
 |275|[ H-Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./solutions/275.%20H-Index%20II.java)|0 ms|
 |276|[ Paint Fence](https://leetcode.com/problems/paint-fence/)|[Java](./solutions/276.%20Paint%20Fence.java)|0 ms|

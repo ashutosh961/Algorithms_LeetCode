@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |7|[ Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./solutions/7.%20Reverse%20Integer.java)|N/A|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./solutions/31.%20Next%20Permutation.java)|0 ms|
+|86|[ Partition List](https://leetcode.com/problems/partition-list/)|[Java](./solutions/86.%20Partition%20List.java)|0 ms|
 |120|[ Triangle](https://leetcode.com/problems/triangle/)|[Java](./solutions/120.%20Triangle.java)|N/A|
 |170|[ Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|[Java](./solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.java)|62 ms|
 |174|[ Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](./solutions/174.%20Dungeon%20Game.java)|1 ms|

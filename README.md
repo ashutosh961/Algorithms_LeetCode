@@ -33,4 +33,5 @@
 |1289|[ Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|[Java](./solutions/1289.%20Minimum%20Falling%20Path%20Sum%20II.java)|284 ms|
 |1564|[ Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/)|[Java](./solutions/1564.%20Put%20Boxes%20Into%20the%20Warehouse%20I.java)|15 ms|
 |1570|[ Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|[Java](./solutions/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.java)|2 ms|
+|1580|[ Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/)|[Java](./solutions/1580.%20Put%20Boxes%20Into%20the%20Warehouse%20II.java)|15 ms|
 |1586|[ Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/)|[Java](./solutions/1586.%20Binary%20Search%20Tree%20Iterator%20II.java)|64 ms|

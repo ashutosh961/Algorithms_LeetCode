@@ -31,6 +31,7 @@
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|2 ms|
 |1136|[ Parallel Courses](https://leetcode.com/problems/parallel-courses/)|[Java](./solutions/1136.%20Parallel%20Courses.java)|7 ms|
 |1245|[ Tree Diameter](https://leetcode.com/problems/tree-diameter/)|[Java](./solutions/1245.%20Tree%20Diameter.java)|19 ms|
+|1252|[ Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Java](./solutions/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.java)|1 ms|
 |1289|[ Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|[Java](./solutions/1289.%20Minimum%20Falling%20Path%20Sum%20II.java)|284 ms|
 |1564|[ Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/)|[Java](./solutions/1564.%20Put%20Boxes%20Into%20the%20Warehouse%20I.java)|15 ms|
 |1570|[ Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)|[Java](./solutions/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.java)|2 ms|

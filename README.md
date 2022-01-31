@@ -41,3 +41,4 @@
 |1580|[ Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/)|[Java](./solutions/1580.%20Put%20Boxes%20Into%20the%20Warehouse%20II.java)|15 ms|
 |1586|[ Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/)|[Java](./solutions/1586.%20Binary%20Search%20Tree%20Iterator%20II.java)|64 ms|
 |1644|[ Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/)|[Java](./solutions/1644.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20II.java)|N/A|
+|1650|[ Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/)|[Java](./solutions/1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III.java)|19 ms|

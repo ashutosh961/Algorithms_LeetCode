@@ -10,6 +10,7 @@
 |170|[ Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)|[Java](./solutions/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.java)|62 ms|
 |174|[ Dungeon Game](https://leetcode.com/problems/dungeon-game/)|[Java](./solutions/174.%20Dungeon%20Game.java)|1 ms|
 |207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./solutions/207.%20Course%20Schedule.java)|7 ms|
+|235|[ Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](./solutions/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.java)|4 ms|
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)|4 ms|
 |245|[ Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)|[Java](./solutions/245.%20Shortest%20Word%20Distance%20III.java)|1 ms|
 |274|[ H-Index](https://leetcode.com/problems/h-index/)|[Java](./solutions/274.%20H-Index.java)|0 ms|
